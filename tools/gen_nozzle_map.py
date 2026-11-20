@@ -404,7 +404,6 @@ def render(geometry_only=False):
         add(f'<path d="M{cx},{cy + sy * br} L{cx},{cy} L{cx + sx * br},{cy}" fill="none" stroke="{G_BRIGHT}" stroke-width="2.5" filter="url(#glow)"/>')
     add(f'<text x="64" y="{H - 44}" font-family="{MONO}" font-size="14" fill="{G_DIM}">'
         'SCAN 0x7E9 · FRONT ◣ LOWER-LEFT · REAR ◥ UPPER-RIGHT · BODY LIFTED +2.45 m (EXPLODED) · NOT TO SCALE</text>')
-    add(f'<text x="{W - 64}" y="{H - 44}" text-anchor="end" font-family="{MONO}" font-size="14" fill="{G_DIM}">wake up, engineer…</text>')
 
     add(f'<rect width="{W}" height="{H}" fill="url(#scan)" pointer-events="none"/>')
     add('</svg>')

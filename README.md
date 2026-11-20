@@ -2,8 +2,6 @@
 
 # Tesla Roadster Flight & Suction Systems — A Reverse-Engineering Report
 
-`> wake up, engineer… the Roadster has you.`
-
 ![status](https://img.shields.io/badge/STATUS-CONCEPT_RECONSTRUCTION-00ff41?style=for-the-badge&labelColor=000000)
 ![source](https://img.shields.io/badge/SOURCE-PUBLIC_REPORTING-00c832?style=for-the-badge&labelColor=000000)
 ![as of](https://img.shields.io/badge/AS_OF-2026--11--20-008f11?style=for-the-badge&labelColor=000000)

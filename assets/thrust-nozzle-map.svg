@@ -1824,6 +1824,5 @@
 <path d="M24,1120 L24,1156 L60,1156" fill="none" stroke="#00ff41" stroke-width="2.5" filter="url(#glow)"/>
 <path d="M1576,1120 L1576,1156 L1540,1156" fill="none" stroke="#00ff41" stroke-width="2.5" filter="url(#glow)"/>
 <text x="64" y="1136" font-family="'DejaVu Sans Mono','Noto Sans Mono CJK KR','Noto Sans CJK KR',monospace" font-size="14" fill="#008f11">SCAN 0x7E9 · FRONT ◣ LOWER-LEFT · REAR ◥ UPPER-RIGHT · BODY LIFTED +2.45 m (EXPLODED) · NOT TO SCALE</text>
-<text x="1536" y="1136" text-anchor="end" font-family="'DejaVu Sans Mono','Noto Sans Mono CJK KR','Noto Sans CJK KR',monospace" font-size="14" fill="#008f11">wake up, engineer…</text>
 <rect width="1600" height="1180" fill="url(#scan)" pointer-events="none"/>
 </svg>
